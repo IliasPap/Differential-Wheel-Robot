@@ -6,4 +6,9 @@ Programming a differential wheel robot equipped with STM32 Nucleo-64 development
 
 ## Path Planning 
 
+
+
 ## Obstacle Avoidance
+Use the ultrasonic sensor to avoid obstacles. The task is to navigate to a predefined destination and avoid any obstacle in the path
+
+![alt text](https://github.com/IliasPap/Differential-Wheel-Robot/blob/master/images/car_path.jpg)
